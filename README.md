@@ -170,7 +170,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📸 Screenshots
 
-![App Screenshot](screenshots/image.png)
+![App Screenshot](screenshots/image1.png)
+
+![App Screenshot](screenshots/image2.png)
+
 
 ---
 
