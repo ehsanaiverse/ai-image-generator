@@ -3,7 +3,7 @@ from app.generator import generate_image
 
 
 def create_ui():
-    with gr.Blocks(theme=gr.themes.Soft()) as demo:
+    with gr.Blocks() as demo:
         gr.Markdown("# Ehsan AI Image Generator")
         gr.Markdown("Generate images from text using Stable Diffusion XL")
         
